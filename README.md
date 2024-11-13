@@ -1,8 +1,3 @@
-# crop-yields
-Here's a `README.md` section for your GitHub project:
-
----
-
 # Crop Yield Prediction with Synthetic Data and Model Comparison
 
 This repository contains code to preprocess data, generate synthetic samples, and compare the performance of multiple regression models to predict crop yield. 
